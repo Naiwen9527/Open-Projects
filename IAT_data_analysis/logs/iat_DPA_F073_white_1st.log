@@ -1,0 +1,585 @@
+7.8929 	WARNING 	User requested fullscreen with size [800 600], but screen is actually [1680, 1050]. Using actual size
+1.4945 	CRITICAL 	***Begin Experiment***
+1.4946 	CRITICAL 	***Randomization: white_1st***
+1.4946 	CRITICAL 	***Block 1 Instructions***
+25.1680 	DATA 	Keypress: return
+26.5523 	DATA 	Keypress: space
+33.5075 	DATA 	Keypress: space
+33.5075 	CRITICAL 	***Block 1 Experiment***
+33.5076 	CRITICAL 	Stim: bf23_nc.jpg
+34.3585 	DATA 	Keypress: i
+34.3586 	CRITICAL 	Final keypress: i
+34.6253 	CRITICAL 	Stim: wm4_nc.jpg
+35.2592 	DATA 	Keypress: e
+35.2593 	CRITICAL 	Final keypress: e
+35.5257 	CRITICAL 	Stim: wf2_nc.jpg
+36.4267 	DATA 	Keypress: e
+36.4268 	CRITICAL 	Final keypress: e
+36.6931 	CRITICAL 	Stim: bm56_nc.jpg
+37.2774 	DATA 	Keypress: i
+37.2774 	CRITICAL 	Final keypress: i
+37.5438 	CRITICAL 	Stim: wm6_nc.jpg
+38.0446 	DATA 	Keypress: e
+38.0447 	CRITICAL 	Final keypress: e
+38.3110 	CRITICAL 	Stim: wf2_nc.jpg
+39.0287 	DATA 	Keypress: e
+39.0287 	CRITICAL 	Final keypress: e
+39.2951 	CRITICAL 	Stim: bm56_nc.jpg
+39.8292 	DATA 	Keypress: i
+39.8293 	CRITICAL 	Final keypress: i
+40.0957 	CRITICAL 	Stim: wm6_nc.jpg
+40.6465 	DATA 	Keypress: e
+40.6466 	CRITICAL 	Final keypress: e
+40.9129 	CRITICAL 	Stim: bm23_nc.jpg
+41.4638 	DATA 	Keypress: i
+41.4639 	CRITICAL 	Final keypress: i
+41.7302 	CRITICAL 	Stim: bf56_nc.jpg
+42.6480 	DATA 	Keypress: i
+42.6481 	CRITICAL 	Final keypress: i
+42.9144 	CRITICAL 	Stim: wf6_nc.jpg
+43.5487 	DATA 	Keypress: e
+43.5488 	CRITICAL 	Final keypress: e
+43.8151 	CRITICAL 	Stim: wm4_nc.jpg
+44.3993 	DATA 	Keypress: e
+44.3994 	CRITICAL 	Final keypress: e
+44.6657 	CRITICAL 	Stim: wf6_nc.jpg
+45.1999 	DATA 	Keypress: e
+45.2000 	CRITICAL 	Final keypress: e
+45.4663 	CRITICAL 	Stim: wm1_nc.jpg
+46.1005 	DATA 	Keypress: e
+46.1006 	CRITICAL 	Final keypress: e
+46.3670 	CRITICAL 	Stim: bf14_nc.jpg
+46.9178 	DATA 	Keypress: i
+46.9179 	CRITICAL 	Final keypress: i
+47.1842 	CRITICAL 	Stim: bm14_nc.jpg
+47.9686 	DATA 	Keypress: i
+47.9687 	CRITICAL 	Final keypress: i
+48.2350 	CRITICAL 	Stim: bm23_nc.jpg
+48.8025 	DATA 	Keypress: i
+48.8026 	CRITICAL 	Final keypress: i
+49.0690 	CRITICAL 	Stim: bf23_nc.jpg
+49.6865 	DATA 	Keypress: i
+49.6866 	CRITICAL 	Final keypress: i
+49.9530 	CRITICAL 	Stim: wm1_nc.jpg
+50.5705 	DATA 	Keypress: e
+50.5706 	CRITICAL 	Final keypress: e
+50.8369 	CRITICAL 	Stim: bm14_nc.jpg
+51.4545 	DATA 	Keypress: i
+51.4546 	CRITICAL 	Final keypress: i
+51.7210 	CRITICAL 	***Block 2 Instructions***
+56.4911 	DATA 	Keypress: space
+56.4912 	CRITICAL 	***Block 2 Experiment***
+56.4912 	CRITICAL 	Stim: Terrible
+57.5424 	DATA 	Keypress: i
+57.5425 	CRITICAL 	Final keypress: i
+57.8088 	CRITICAL 	Stim: Nasty
+58.4764 	DATA 	Keypress: i
+58.4765 	CRITICAL 	Final keypress: i
+58.7428 	CRITICAL 	Stim: Glorious
+59.3104 	DATA 	Keypress: e
+59.3105 	CRITICAL 	Final keypress: e
+59.5767 	CRITICAL 	Stim: Lovely
+60.0777 	DATA 	Keypress: e
+60.0778 	CRITICAL 	Final keypress: e
+60.3440 	CRITICAL 	Stim: Horrible
+60.9118 	DATA 	Keypress: i
+60.9119 	CRITICAL 	Final keypress: i
+61.1780 	CRITICAL 	Stim: Lovely
+62.1459 	DATA 	Keypress: e
+62.1459 	CRITICAL 	Final keypress: e
+62.4122 	CRITICAL 	Stim: Humiliate
+63.0131 	DATA 	Keypress: i
+63.0132 	CRITICAL 	Final keypress: i
+63.2795 	CRITICAL 	Stim: Painful
+63.9639 	DATA 	Keypress: i
+63.9639 	CRITICAL 	Final keypress: i
+64.2302 	CRITICAL 	Stim: Humiliate
+64.8311 	DATA 	Keypress: i
+64.8312 	CRITICAL 	Final keypress: i
+65.0975 	CRITICAL 	Stim: Wonderful
+65.6151 	DATA 	Keypress: e
+65.6152 	CRITICAL 	Final keypress: e
+65.8814 	CRITICAL 	Stim: Agony
+66.4657 	DATA 	Keypress: i
+66.4658 	CRITICAL 	Final keypress: i
+66.7320 	CRITICAL 	Stim: Tragic
+67.4164 	DATA 	Keypress: i
+67.4165 	CRITICAL 	Final keypress: i
+67.6827 	CRITICAL 	Stim: Horrible
+68.2837 	DATA 	Keypress: i
+68.2838 	CRITICAL 	Final keypress: i
+68.5500 	CRITICAL 	Stim: Superb
+69.1677 	DATA 	Keypress: e
+69.1678 	CRITICAL 	Final keypress: e
+69.4340 	CRITICAL 	Stim: Joyful
+69.9516 	DATA 	Keypress: e
+69.9517 	CRITICAL 	Final keypress: e
+70.2179 	CRITICAL 	Stim: Agony
+70.7856 	DATA 	Keypress: i
+70.7857 	CRITICAL 	Final keypress: i
+71.0519 	CRITICAL 	Stim: Marvelous
+71.6195 	DATA 	Keypress: e
+71.6196 	CRITICAL 	Final keypress: e
+71.8859 	CRITICAL 	Stim: Beautiful
+72.4868 	DATA 	Keypress: e
+72.4869 	CRITICAL 	Final keypress: e
+72.7531 	CRITICAL 	Stim: Superb
+73.8545 	DATA 	Keypress: e
+73.8546 	CRITICAL 	Final keypress: e
+74.1208 	CRITICAL 	Stim: Joyful
+74.8052 	DATA 	Keypress: e
+74.8053 	CRITICAL 	Final keypress: e
+75.0715 	CRITICAL 	***Block 3 Instructions***
+79.9584 	DATA 	Keypress: space
+79.9585 	CRITICAL 	***Block 3 Experiment***
+79.9585 	CRITICAL 	Stim: Glorious
+80.7102 	DATA 	Keypress: e
+80.7103 	CRITICAL 	Final keypress: e
+80.9759 	CRITICAL 	Stim: Beautiful
+81.6943 	DATA 	Keypress: e
+81.6944 	CRITICAL 	Final keypress: e
+81.9599 	CRITICAL 	Stim: Joyful
+82.5949 	DATA 	Keypress: e
+82.5950 	CRITICAL 	Final keypress: e
+82.8606 	CRITICAL 	Stim: wf2_nc.jpg
+83.5455 	DATA 	Keypress: e
+83.5456 	CRITICAL 	Final keypress: e
+83.8113 	CRITICAL 	Stim: bm23_nc.jpg
+84.4462 	DATA 	Keypress: i
+84.4463 	CRITICAL 	Final keypress: i
+84.7120 	CRITICAL 	Stim: bm56_nc.jpg
+85.2802 	DATA 	Keypress: i
+85.2802 	CRITICAL 	Final keypress: i
+85.5459 	CRITICAL 	Stim: Horrible
+86.0475 	DATA 	Keypress: i
+86.0476 	CRITICAL 	Final keypress: i
+86.3132 	CRITICAL 	Stim: Marvelous
+86.9648 	DATA 	Keypress: e
+86.9649 	CRITICAL 	Final keypress: e
+87.2305 	CRITICAL 	Stim: bf14_nc.jpg
+87.8155 	DATA 	Keypress: i
+87.8156 	CRITICAL 	Final keypress: i
+88.0811 	CRITICAL 	Stim: Awful
+88.9830 	DATA 	Keypress: i
+88.9831 	CRITICAL 	Final keypress: i
+89.2486 	CRITICAL 	Stim: Agony
+90.4341 	DATA 	Keypress: i
+90.4342 	CRITICAL 	Final keypress: i
+90.6997 	CRITICAL 	Stim: bf23_nc.jpg
+91.3847 	DATA 	Keypress: i
+91.3848 	CRITICAL 	Final keypress: i
+91.6505 	CRITICAL 	Stim: bm14_nc.jpg
+92.2353 	DATA 	Keypress: i
+92.2354 	CRITICAL 	Final keypress: i
+92.5010 	CRITICAL 	Stim: wm4_nc.jpg
+93.2027 	DATA 	Keypress: e
+93.2028 	CRITICAL 	Final keypress: e
+93.4684 	CRITICAL 	Stim: wf3_nc.jpg
+94.2368 	DATA 	Keypress: e
+94.2369 	CRITICAL 	Final keypress: e
+94.5025 	CRITICAL 	Stim: Wonderful
+95.7713 	DATA 	Keypress: i
+96.4885 	DATA 	Keypress: e
+96.4886 	CRITICAL 	Final keypress: e
+96.7542 	CRITICAL 	Stim: Terrible
+97.6728 	DATA 	Keypress: e
+98.4066 	DATA 	Keypress: i
+98.4067 	CRITICAL 	Final keypress: i
+98.6723 	CRITICAL 	Stim: Tragic
+99.3574 	DATA 	Keypress: i
+99.3575 	CRITICAL 	Final keypress: i
+99.6230 	CRITICAL 	Stim: wf6_nc.jpg
+100.8750 	DATA 	Keypress: e
+100.8751 	CRITICAL 	Final keypress: e
+101.1408 	CRITICAL 	Stim: wm6_nc.jpg
+101.8591 	DATA 	Keypress: e
+101.8592 	CRITICAL 	Final keypress: e
+102.1249 	CRITICAL 	***Block 4 Instructions***
+104.5614 	DATA 	Keypress: e
+105.1103 	DATA 	Keypress: space
+105.1104 	CRITICAL 	***Block 4 Experiment***
+105.1104 	CRITICAL 	Stim: Lovely
+105.7954 	DATA 	Keypress: e
+105.7955 	CRITICAL 	Final keypress: e
+106.0611 	CRITICAL 	Stim: Horrible
+106.4792 	DATA 	Keypress: e
+107.0966 	DATA 	Keypress: i
+107.1130 	CRITICAL 	Final keypress: i
+107.3788 	CRITICAL 	Stim: bf14_nc.jpg
+108.1304 	DATA 	Keypress: i
+108.1305 	CRITICAL 	Final keypress: i
+108.3961 	CRITICAL 	Stim: Painful
+109.5482 	DATA 	Keypress: i
+109.5483 	CRITICAL 	Final keypress: i
+109.8138 	CRITICAL 	Stim: Glorious
+110.5156 	DATA 	Keypress: e
+110.5156 	CRITICAL 	Final keypress: e
+110.7812 	CRITICAL 	Stim: Superb
+111.5830 	DATA 	Keypress: e
+111.5831 	CRITICAL 	Final keypress: e
+111.8487 	CRITICAL 	Stim: bm14_nc.jpg
+112.5337 	DATA 	Keypress: i
+112.5337 	CRITICAL 	Final keypress: i
+112.7994 	CRITICAL 	Stim: wf2_nc.jpg
+113.4343 	DATA 	Keypress: e
+113.4344 	CRITICAL 	Final keypress: e
+113.7000 	CRITICAL 	Stim: Humiliate
+114.7854 	DATA 	Keypress: i
+114.7855 	CRITICAL 	Final keypress: i
+115.0510 	CRITICAL 	Stim: bm56_nc.jpg
+115.9695 	DATA 	Keypress: i
+115.9696 	CRITICAL 	Final keypress: i
+116.2352 	CRITICAL 	Stim: Awful
+117.1038 	DATA 	Keypress: i
+117.1038 	CRITICAL 	Final keypress: i
+117.3694 	CRITICAL 	Stim: wm4_nc.jpg
+118.0377 	DATA 	Keypress: e
+118.0378 	CRITICAL 	Final keypress: e
+118.3034 	CRITICAL 	Stim: Beautiful
+119.4221 	DATA 	Keypress: e
+119.4222 	CRITICAL 	Final keypress: e
+119.6878 	CRITICAL 	Stim: bm23_nc.jpg
+120.3394 	DATA 	Keypress: i
+120.3395 	CRITICAL 	Final keypress: i
+120.6052 	CRITICAL 	Stim: Marvelous
+121.2401 	DATA 	Keypress: e
+121.2402 	CRITICAL 	Final keypress: e
+121.5058 	CRITICAL 	Stim: Joyful
+122.1575 	DATA 	Keypress: e
+122.1576 	CRITICAL 	Final keypress: e
+122.4231 	CRITICAL 	Stim: wm1_nc.jpg
+123.9588 	DATA 	Keypress: e
+123.9588 	CRITICAL 	Final keypress: e
+124.2245 	CRITICAL 	Stim: Nasty
+124.9762 	DATA 	Keypress: i
+124.9763 	CRITICAL 	Final keypress: i
+125.2419 	CRITICAL 	Stim: bm14_nc.jpg
+126.0269 	DATA 	Keypress: i
+126.0270 	CRITICAL 	Final keypress: i
+126.2927 	CRITICAL 	Stim: Humiliate
+127.3280 	DATA 	Keypress: i
+127.3281 	CRITICAL 	Final keypress: i
+127.5936 	CRITICAL 	Stim: wf2_nc.jpg
+128.2619 	DATA 	Keypress: e
+128.2620 	CRITICAL 	Final keypress: e
+128.5276 	CRITICAL 	Stim: wf3_nc.jpg
+129.1626 	DATA 	Keypress: e
+129.1626 	CRITICAL 	Final keypress: e
+129.4283 	CRITICAL 	Stim: bf56_nc.jpg
+130.1967 	DATA 	Keypress: i
+130.1967 	CRITICAL 	Final keypress: i
+130.4625 	CRITICAL 	Stim: Awful
+131.1642 	DATA 	Keypress: i
+131.1642 	CRITICAL 	Final keypress: i
+131.4298 	CRITICAL 	Stim: wf6_nc.jpg
+132.0981 	DATA 	Keypress: e
+132.0982 	CRITICAL 	Final keypress: e
+132.3638 	CRITICAL 	Stim: bf56_nc.jpg
+133.0321 	DATA 	Keypress: i
+133.0322 	CRITICAL 	Final keypress: i
+133.2978 	CRITICAL 	Stim: Joyful
+133.9162 	DATA 	Keypress: e
+133.9163 	CRITICAL 	Final keypress: e
+134.1818 	CRITICAL 	Stim: bf14_nc.jpg
+134.8167 	DATA 	Keypress: i
+134.8168 	CRITICAL 	Final keypress: i
+135.0825 	CRITICAL 	Stim: Nasty
+135.9844 	DATA 	Keypress: i
+135.9844 	CRITICAL 	Final keypress: i
+136.2500 	CRITICAL 	Stim: Horrible
+136.9518 	DATA 	Keypress: i
+136.9519 	CRITICAL 	Final keypress: i
+137.2174 	CRITICAL 	Stim: wf3_nc.jpg
+137.8523 	DATA 	Keypress: e
+137.8524 	CRITICAL 	Final keypress: e
+138.1181 	CRITICAL 	Stim: bf23_nc.jpg
+139.1533 	DATA 	Keypress: i
+139.1534 	CRITICAL 	Final keypress: i
+139.4190 	CRITICAL 	Stim: Agony
+140.1875 	DATA 	Keypress: i
+140.1876 	CRITICAL 	Final keypress: i
+140.4531 	CRITICAL 	Stim: wm6_nc.jpg
+141.3551 	DATA 	Keypress: e
+141.3552 	CRITICAL 	Final keypress: e
+141.6206 	CRITICAL 	Stim: Superb
+142.4558 	DATA 	Keypress: i
+142.8894 	DATA 	Keypress: e
+142.8895 	CRITICAL 	Final keypress: e
+143.1551 	CRITICAL 	Stim: Pleasure
+143.7234 	DATA 	Keypress: e
+143.7235 	CRITICAL 	Final keypress: e
+143.9891 	CRITICAL 	Stim: bm56_nc.jpg
+144.9242 	DATA 	Keypress: i
+144.9243 	CRITICAL 	Final keypress: i
+145.1899 	CRITICAL 	Stim: Marvelous
+145.7249 	DATA 	Keypress: e
+145.7250 	CRITICAL 	Final keypress: e
+145.9905 	CRITICAL 	Stim: wm1_nc.jpg
+146.7923 	DATA 	Keypress: e
+146.7924 	CRITICAL 	Final keypress: e
+147.0580 	CRITICAL 	Stim: wf6_nc.jpg
+147.8097 	DATA 	Keypress: e
+147.8098 	CRITICAL 	Final keypress: e
+148.0755 	CRITICAL 	***Block 5 Instructions***
+150.8775 	DATA 	Keypress: space
+150.8775 	CRITICAL 	***Block 5 Experiment***
+150.8776 	CRITICAL 	Stim: bf14_nc.jpg
+152.1789 	DATA 	Keypress: e
+152.1789 	CRITICAL 	Final keypress: e
+152.4454 	CRITICAL 	Stim: wf6_nc.jpg
+153.1796 	DATA 	Keypress: i
+153.1797 	CRITICAL 	Final keypress: i
+153.4460 	CRITICAL 	Stim: wm1_nc.jpg
+154.2637 	DATA 	Keypress: i
+154.2638 	CRITICAL 	Final keypress: i
+154.5302 	CRITICAL 	Stim: bm56_nc.jpg
+155.2812 	DATA 	Keypress: e
+155.2812 	CRITICAL 	Final keypress: e
+155.5476 	CRITICAL 	Stim: wf6_nc.jpg
+156.2986 	DATA 	Keypress: i
+156.2987 	CRITICAL 	Final keypress: i
+156.5650 	CRITICAL 	Stim: bm23_nc.jpg
+157.2993 	DATA 	Keypress: e
+157.2994 	CRITICAL 	Final keypress: e
+157.5657 	CRITICAL 	Stim: bm14_nc.jpg
+158.2834 	DATA 	Keypress: e
+158.2835 	CRITICAL 	Final keypress: e
+158.5498 	CRITICAL 	Stim: bm23_nc.jpg
+159.2007 	DATA 	Keypress: e
+159.2008 	CRITICAL 	Final keypress: e
+159.4671 	CRITICAL 	Stim: wf3_nc.jpg
+160.1014 	DATA 	Keypress: i
+160.1015 	CRITICAL 	Final keypress: i
+160.3678 	CRITICAL 	Stim: wf2_nc.jpg
+161.0187 	DATA 	Keypress: i
+161.0188 	CRITICAL 	Final keypress: i
+161.2852 	CRITICAL 	Stim: bm14_nc.jpg
+162.0195 	DATA 	Keypress: e
+162.0195 	CRITICAL 	Final keypress: e
+162.2859 	CRITICAL 	Stim: wm4_nc.jpg
+162.9201 	DATA 	Keypress: i
+162.9202 	CRITICAL 	Final keypress: i
+163.1866 	CRITICAL 	Stim: wm6_nc.jpg
+163.8708 	DATA 	Keypress: i
+163.8709 	CRITICAL 	Final keypress: i
+164.1373 	CRITICAL 	Stim: bf56_nc.jpg
+165.1718 	DATA 	Keypress: e
+165.1719 	CRITICAL 	Final keypress: e
+165.4382 	CRITICAL 	Stim: bf23_nc.jpg
+166.2059 	DATA 	Keypress: e
+166.2060 	CRITICAL 	Final keypress: e
+166.4723 	CRITICAL 	Stim: bm56_nc.jpg
+167.0231 	DATA 	Keypress: e
+167.0232 	CRITICAL 	Final keypress: e
+167.2896 	CRITICAL 	Stim: wf3_nc.jpg
+167.7570 	DATA 	Keypress: i
+167.7571 	CRITICAL 	Final keypress: i
+168.0235 	CRITICAL 	Stim: wm6_nc.jpg
+168.6744 	DATA 	Keypress: i
+168.6745 	CRITICAL 	Final keypress: i
+168.9408 	CRITICAL 	Stim: wm1_nc.jpg
+169.5584 	DATA 	Keypress: i
+169.5584 	CRITICAL 	Final keypress: i
+169.8248 	CRITICAL 	Stim: bf14_nc.jpg
+170.3756 	DATA 	Keypress: e
+170.3757 	CRITICAL 	Final keypress: e
+170.6421 	CRITICAL 	***Block 6 Instructions***
+178.2143 	DATA 	Keypress: space
+178.2144 	CRITICAL 	***Block 6 Experiment***
+178.2144 	CRITICAL 	Stim: bf23_nc.jpg
+179.7999 	DATA 	Keypress: i
+180.2669 	DATA 	Keypress: e
+180.2670 	CRITICAL 	Final keypress: e
+180.5328 	CRITICAL 	Stim: Terrible
+181.5681 	DATA 	Keypress: e
+182.0350 	DATA 	Keypress: i
+182.0351 	CRITICAL 	Final keypress: i
+182.3007 	CRITICAL 	Stim: wm4_nc.jpg
+183.8529 	DATA 	Keypress: i
+183.8530 	CRITICAL 	Final keypress: i
+184.1187 	CRITICAL 	Stim: Painful
+185.5043 	DATA 	Keypress: e
+185.9379 	DATA 	Keypress: i
+185.9380 	CRITICAL 	Final keypress: i
+186.2036 	CRITICAL 	Stim: bm56_nc.jpg
+187.9393 	DATA 	Keypress: e
+187.9394 	CRITICAL 	Final keypress: e
+188.2050 	CRITICAL 	Stim: Humiliate
+188.8901 	DATA 	Keypress: i
+188.8902 	CRITICAL 	Final keypress: i
+189.1557 	CRITICAL 	Stim: bf56_nc.jpg
+190.4245 	DATA 	Keypress: e
+190.4245 	CRITICAL 	Final keypress: e
+190.6902 	CRITICAL 	Stim: Joyful
+191.4253 	DATA 	Keypress: i
+192.0424 	DATA 	Keypress: e
+192.0425 	CRITICAL 	Final keypress: e
+192.3081 	CRITICAL 	Stim: wm1_nc.jpg
+193.3767 	DATA 	Keypress: i
+193.3768 	CRITICAL 	Final keypress: i
+193.6424 	CRITICAL 	Stim: bm23_nc.jpg
+194.4941 	DATA 	Keypress: e
+194.4942 	CRITICAL 	Final keypress: e
+194.7599 	CRITICAL 	Stim: Beautiful
+196.3289 	DATA 	Keypress: e
+196.3290 	CRITICAL 	Final keypress: e
+196.5946 	CRITICAL 	Stim: Nasty
+197.3463 	DATA 	Keypress: i
+197.3464 	CRITICAL 	Final keypress: i
+197.6120 	CRITICAL 	Stim: wm6_nc.jpg
+198.2636 	DATA 	Keypress: i
+198.2637 	CRITICAL 	Final keypress: i
+198.5293 	CRITICAL 	Stim: wf3_nc.jpg
+199.1142 	DATA 	Keypress: i
+199.1143 	CRITICAL 	Final keypress: i
+199.3799 	CRITICAL 	Stim: Marvelous
+200.0650 	DATA 	Keypress: e
+200.0651 	CRITICAL 	Final keypress: e
+200.3307 	CRITICAL 	Stim: bf14_nc.jpg
+200.8155 	DATA 	Keypress: e
+200.8156 	CRITICAL 	Final keypress: e
+201.0812 	CRITICAL 	Stim: Tragic
+202.1499 	DATA 	Keypress: i
+202.1500 	CRITICAL 	Final keypress: i
+202.4155 	CRITICAL 	Stim: wf6_nc.jpg
+202.9837 	DATA 	Keypress: e
+203.5675 	DATA 	Keypress: i
+203.5676 	CRITICAL 	Final keypress: i
+203.8333 	CRITICAL 	Stim: Wonderful
+204.5850 	DATA 	Keypress: e
+204.5851 	CRITICAL 	Final keypress: e
+204.8506 	CRITICAL 	Stim: Lovely
+205.3189 	DATA 	Keypress: e
+205.3190 	CRITICAL 	Final keypress: e
+205.5845 	CRITICAL 	***Block 7 Instructions***
+208.7035 	DATA 	Keypress: space
+208.7036 	CRITICAL 	***Block 7 Experiment***
+208.7036 	CRITICAL 	Stim: Joyful
+209.8222 	DATA 	Keypress: e
+209.8223 	CRITICAL 	Final keypress: e
+210.0879 	CRITICAL 	Stim: wm6_nc.jpg
+211.0564 	DATA 	Keypress: i
+211.0565 	CRITICAL 	Final keypress: i
+211.3221 	CRITICAL 	Stim: bf14_nc.jpg
+212.0905 	DATA 	Keypress: e
+212.0906 	CRITICAL 	Final keypress: e
+212.3562 	CRITICAL 	Stim: Superb
+213.3248 	DATA 	Keypress: e
+213.3249 	CRITICAL 	Final keypress: e
+213.5904 	CRITICAL 	Stim: bm23_nc.jpg
+214.2420 	DATA 	Keypress: e
+214.2421 	CRITICAL 	Final keypress: e
+214.5078 	CRITICAL 	Stim: wm4_nc.jpg
+215.1594 	DATA 	Keypress: i
+215.1595 	CRITICAL 	Final keypress: i
+215.4251 	CRITICAL 	Stim: wf2_nc.jpg
+215.9933 	DATA 	Keypress: i
+215.9934 	CRITICAL 	Final keypress: i
+216.2591 	CRITICAL 	Stim: Tragic
+216.9441 	DATA 	Keypress: i
+216.9442 	CRITICAL 	Final keypress: i
+217.2098 	CRITICAL 	Stim: bm14_nc.jpg
+217.8614 	DATA 	Keypress: e
+217.8615 	CRITICAL 	Final keypress: e
+218.1272 	CRITICAL 	Stim: wf2_nc.jpg
+218.7120 	DATA 	Keypress: e
+219.0456 	DATA 	Keypress: i
+219.0456 	CRITICAL 	Final keypress: i
+219.3113 	CRITICAL 	Stim: Nasty
+220.1632 	DATA 	Keypress: i
+220.1633 	CRITICAL 	Final keypress: i
+220.4288 	CRITICAL 	Stim: wm4_nc.jpg
+222.1313 	DATA 	Keypress: e
+222.5315 	DATA 	Keypress: i
+222.5315 	CRITICAL 	Final keypress: i
+222.7973 	CRITICAL 	Stim: Glorious
+223.4990 	DATA 	Keypress: e
+223.4991 	CRITICAL 	Final keypress: e
+223.7646 	CRITICAL 	Stim: bm56_nc.jpg
+224.4997 	DATA 	Keypress: e
+224.4997 	CRITICAL 	Final keypress: e
+224.7654 	CRITICAL 	Stim: wm6_nc.jpg
+225.6171 	DATA 	Keypress: e
+226.0674 	DATA 	Keypress: i
+226.0675 	CRITICAL 	Final keypress: i
+226.3332 	CRITICAL 	Stim: Glorious
+227.0182 	DATA 	Keypress: e
+227.0183 	CRITICAL 	Final keypress: e
+227.2839 	CRITICAL 	Stim: bm14_nc.jpg
+227.9021 	DATA 	Keypress: e
+227.9022 	CRITICAL 	Final keypress: e
+228.1679 	CRITICAL 	Stim: Awful
+228.9030 	DATA 	Keypress: i
+228.9031 	CRITICAL 	Final keypress: i
+229.1686 	CRITICAL 	Stim: Beautiful
+229.9371 	DATA 	Keypress: e
+229.9372 	CRITICAL 	Final keypress: e
+230.2027 	CRITICAL 	Stim: Wonderful
+232.7225 	DATA 	Keypress: e
+232.7225 	CRITICAL 	Final keypress: e
+232.9881 	CRITICAL 	Stim: Horrible
+234.5571 	DATA 	Keypress: i
+234.5572 	CRITICAL 	Final keypress: i
+234.8228 	CRITICAL 	Stim: Terrible
+235.8081 	DATA 	Keypress: i
+235.8082 	CRITICAL 	Final keypress: i
+236.0737 	CRITICAL 	Stim: bm56_nc.jpg
+236.9422 	DATA 	Keypress: i
+237.3758 	DATA 	Keypress: e
+237.3759 	CRITICAL 	Final keypress: e
+237.6415 	CRITICAL 	Stim: bf56_nc.jpg
+238.8269 	DATA 	Keypress: e
+238.8269 	CRITICAL 	Final keypress: e
+239.0926 	CRITICAL 	Stim: Pleasure
+240.1613 	DATA 	Keypress: i
+240.5782 	DATA 	Keypress: e
+240.5783 	CRITICAL 	Final keypress: e
+240.8439 	CRITICAL 	Stim: Lovely
+241.7124 	DATA 	Keypress: e
+241.7125 	CRITICAL 	Final keypress: e
+241.9781 	CRITICAL 	Stim: bm23_nc.jpg
+242.5463 	DATA 	Keypress: e
+242.5464 	CRITICAL 	Final keypress: e
+242.8120 	CRITICAL 	Stim: wf6_nc.jpg
+243.4636 	DATA 	Keypress: i
+243.4637 	CRITICAL 	Final keypress: i
+243.7294 	CRITICAL 	Stim: Nasty
+244.2477 	DATA 	Keypress: i
+244.2477 	CRITICAL 	Final keypress: i
+244.5133 	CRITICAL 	Stim: bf56_nc.jpg
+245.1983 	DATA 	Keypress: e
+245.1984 	CRITICAL 	Final keypress: e
+245.4640 	CRITICAL 	Stim: Humiliate
+246.3492 	DATA 	Keypress: i
+246.3493 	CRITICAL 	Final keypress: i
+246.6148 	CRITICAL 	Stim: bf23_nc.jpg
+248.1170 	DATA 	Keypress: e
+248.1171 	CRITICAL 	Final keypress: e
+248.3828 	CRITICAL 	Stim: Horrible
+249.1679 	DATA 	Keypress: i
+249.1680 	CRITICAL 	Final keypress: i
+249.4336 	CRITICAL 	Stim: wf3_nc.jpg
+250.2186 	DATA 	Keypress: i
+250.2187 	CRITICAL 	Final keypress: i
+250.4844 	CRITICAL 	Stim: Superb
+251.0526 	DATA 	Keypress: e
+251.0527 	CRITICAL 	Final keypress: e
+251.3183 	CRITICAL 	Stim: wf3_nc.jpg
+251.9365 	DATA 	Keypress: i
+251.9366 	CRITICAL 	Final keypress: i
+252.2023 	CRITICAL 	Stim: Joyful
+252.8873 	DATA 	Keypress: e
+252.8874 	CRITICAL 	Final keypress: e
+253.1530 	CRITICAL 	Stim: wf6_nc.jpg
+254.4050 	DATA 	Keypress: i
+254.4051 	CRITICAL 	Final keypress: i
+254.6708 	CRITICAL 	Stim: Painful
+255.6894 	DATA 	Keypress: e
+256.1564 	DATA 	Keypress: i
+256.1565 	CRITICAL 	Final keypress: i
+256.4221 	CRITICAL 	Stim: Terrible
+257.6408 	DATA 	Keypress: i
+257.6409 	CRITICAL 	Final keypress: i
+257.7241 	DATA 	Keypress: e
+257.9065 	DATA 	***End of Run***
+262.6766 	DATA 	Keypress: escape
